@@ -15,8 +15,8 @@ I will be updating this table as I complete each section of the sheet.
 | 1 | **Learn the Basics** | ⏳ In Progress | |
 | 2 | **Sorting Techniques** | ⏳ In Progress | |
 | 3 | **Arrays** | ⏳ In Progress | |
-| 4 | **Binary Search** | ⬜ Not Started | |
-| 5 | **Strings** | ⬜ Not Started | |
+| 4 | **Binary Search** | ⏳ In Progress | |
+| 5 | **Strings** | ⏳ In Progress | |
 | 6 | **Linked List** | ⬜ Not Started | |
 | 7 | **Recursion** | ⬜ Not Started | |
 | 8 | **Bit Manipulation** | ⬜ Not Started | |
